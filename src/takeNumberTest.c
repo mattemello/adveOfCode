@@ -17,8 +17,8 @@ void testWithuno(){
 }
 
 void testWithtwo(){
-    char *string = "pqr3stu8vwx";
-    int want = 38;
+    char *string = "two1nine";
+    int want = 29;
 
     int ret = takeNumber(string);
 
